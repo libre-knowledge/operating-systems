@@ -23,7 +23,8 @@
 * Fedora
 * OpenWrt
 * RedHat Enterprise Linux(RHEL)
-* Ubuntu
+* [Ubuntu](https://gitlab.com/libre-knowledge/ubuntu)  
+  基於 Debian，以使用者友善為賣點的 GNU/Linux 作業系統散布版
 * Windows
 
 ## 參考資料
